@@ -1,9 +1,9 @@
-# Welcome to Vue CDN Template 👋
+# Welcome to Sistema de Aulas  👋
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: patogordoo](https://img.shields.io/twitter/follow/patogordoo.svg?style=social)](https://twitter.com/patogordoo)
+[![Twitter: Kawe_Maximo](https://img.shields.io/twitter/follow/kawe_maximo.svg?style=social)](https://twitter.com/kawe_maximo)
 
-> A simple template to work with Vue by cdn.
+> Um Simples Sistemas de Aulas para UBC
 
 ### ✨ [Demo](https://vue-router-template.ga)
 
